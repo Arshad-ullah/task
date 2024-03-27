@@ -3,7 +3,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 import 'package:task/src/core/constant/color.dart';
 import 'package:task/src/core/services/api_service.dart';
-import 'package:task/src/ui/screens/home_viewmode.dart';
+import 'package:task/src/ui/screens/home/home_viewmode.dart';
 import 'package:task/src/utils/text.dart';
 
 class HomeScreen extends StatelessWidget {

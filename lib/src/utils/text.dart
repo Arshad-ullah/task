@@ -19,7 +19,7 @@ Text manropeText({
       color: color ?? kblackColor,
       fontSize: fontSize ?? 14,
       fontWeight: fontWeight ?? FontWeight.normal,
-      letterSpacing: letterSpacing ?? 2,
+      letterSpacing: letterSpacing ?? 0,
     ),
   );
 }
